@@ -16,6 +16,58 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```<html>
+<head>
+<style type = "text/css">
+h1
+  {
+   background-color:ORANGE;
+    color:yellow;
+    text-align:center;
+  }
+
+
+p
+   {
+    text-align:left;
+    border-bottom-style:dashed;
+    border-top-style:solid; 
+    border-left-style:double; 
+    border-right-style:groove;
+    border-width:25px;
+    font :Times Newroman;
+    border-bottom-color:black;
+    border-top-color:red;
+    border-left-color:green; 
+    border-right-color:cyan;
+   }
+</style>
+</head>
+<body>
+            <h1>BIO-DATA</h1>
+<p>    
+            NAME:KARPAKAM
+            <br>
+            FATHER NAME:GANESH
+            <br>
+            MOTHER NAME: PRIYA
+            <br>
+            ADDRESS:5/27, BATHRAPALLI VILLAGE,K.V.KUPPAM TALUK. 
+            <br>
+            DEPARTMENT:B.TECH AGRICULTURAL ENGINEERING
+            <br>
+            REGISTER NUMBER:22006782
+            <br>
+            YEAR:FIRST YEAR
+            <br>
+            HOBBIES:PLAYING WITH DOGS,STORY BOOKS READING.
+            <br>
+            PHONE NUMBER:1234567890
+            <br>
+            E-MAIL ID:karpa2004@GMAIL.COM</p>
+</body>
+</html>
+```
 
 
 ## OUTPUT
