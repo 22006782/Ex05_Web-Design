@@ -71,6 +71,8 @@ p
 
 
 ## OUTPUT
+![karpabio](https://github.com/22006782/Ex05_Web-Design/assets/128878369/852d7b27-723a-45f3-9822-79d1c9724e5b)
+
 
 
 ## RESULT
